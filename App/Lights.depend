@@ -1,0 +1,353 @@
+# depslib dependency file v1.0
+1254510711 source:/home/andris/Lights/main.cpp
+	"GL/gl.h"
+	"GL/glut.h"
+	"light.h"
+
+1254510555 source:/home/andris/Lights/light.cpp
+
+1254510666 /home/andris/Lights/light.cpp
+
+1254510700 /home/andris/Lights/light.h
+
+1262186619 source:c:\users\andris\desktop\lights\main.cpp
+	<iostream>
+	"game.h"
+	<windows.h>
+	<Windowsx.h>
+
+1254936748 c:\users\andris\desktop\lights\light.h
+	"GL/gl.h"
+
+1258221764 source:c:\users\andris\desktop\lights\light.cpp
+	"light.h"
+	<iostream>
+
+1254596290 c:\users\andris\desktop\lights\glut\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1258224698 c:\users\andris\desktop\lights\objects\object.h
+	"GL/gl.h"
+	<vector>
+
+1254680212 source:c:\users\andris\desktop\lights\objects\drawable.cpp
+
+1258126832 source:c:\users\andris\desktop\lights\objects\primitives.cpp
+	"primitives.h"
+
+1258126826 c:\users\andris\desktop\lights\objects\primitives.h
+	"drawable.h"
+	"glut.h"
+
+1258227318 c:\users\andris\desktop\lights\objects\drawable.h
+	"object.h"
+
+1254931762 source:c:\users\andris\desktop\lights\material.cpp
+	"material.h"
+
+1254931562 c:\users\andris\desktop\lights\material.h
+	"GL/gl.h"
+
+1263745269 c:\users\andris\desktop\lights\game.h
+	"GL/gl.h"
+	"glut/glut.h"
+	"light.h"
+	"material.h"
+	"objects/object.h"
+	"objects/drawable.h"
+	"objects/primitives.h"
+	"objects/3dmodel.h"
+	"objects/terrain.h"
+	"player.h"
+	"bullet.h"
+	"healthbar.h"
+	<list>
+	"hrtimer.h"
+
+1263748719 source:c:\users\andris\desktop\lights\game.cpp
+	"game.h"
+	<iostream>
+	<iomanip>
+	<math.h>
+
+1263767744 source:c:\users\andris\desktop\lights\objects\3dmodel.cpp
+	"3dmodel.h"
+	"math.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	"glext.h"
+	"glut.h"
+	<exception>
+	<stdexcept>
+
+1263749731 c:\users\andris\desktop\lights\objects\3dmodel.h
+	<vector>
+	"drawable.h"
+	"objectdata.h"
+	"external\bmploader\Bitmap.h"
+
+1255263568 c:\users\andris\desktop\lights\\glext.h
+	<windows.h>
+	<stddef.h>
+
+1263740738 c:\users\andris\desktop\lights\player.h
+	"objects/primitives.h"
+	"objects/3dmodel.h"
+	"math.h"
+
+1258226806 source:c:\users\andris\desktop\lights\player.cpp
+	"player.h"
+	<iostream>
+
+1258132570 c:\users\andris\desktop\lights\bullet.h
+	<iostream>
+	<math.h>
+
+1258199412 c:\users\andris\desktop\lights\hrtimer.h
+	"Windows.h"
+
+1258200942 source:c:\users\andris\desktop\lights\hrtimer.cpp
+	"hrtimer.h"
+
+1258226748 c:\users\andris\desktop\lights\healthbar.h
+	"objects/drawable.h"
+
+1258243166 source:c:\users\andris\desktop\lights\healthbar.cpp
+	"healthbar.h"
+	<iostream>
+	"glut.h"
+
+1263739956 c:\users\andris\desktop\lights\objects\humanmodel.h
+	"drawable.h"
+
+1263741770 source:c:\users\andris\desktop\lights\external\bmploader\bitmap.cpp
+	"Bitmap.h"
+
+1057782724 c:\users\andris\desktop\lights\external\bmploader\bitmap.h
+	<iostream>
+	<cstdio>
+	<string>
+
+1263747150 c:\users\andris\desktop\lights\objects\terrain.h
+	"GL/gl.h"
+	"objects/drawable.h"
+	"external/bmploader/bitmap.h"
+	"objectdata.h"
+
+1057782724 c:\users\andris\desktop\lights\\external\bmploader\bitmap.h
+	<iostream>
+	<cstdio>
+	<string>
+
+1258227318 c:\users\andris\desktop\lights\\objects\drawable.h
+	"object.h"
+
+1258224698 c:\users\andris\desktop\lights\\objects\object.h
+	"GL/gl.h"
+	<vector>
+
+1263747808 source:c:\users\andris\desktop\lights\objects\terrain.cpp
+	"terrain.h"
+	<iostream>
+	"GL/gl.h"
+	"glext.h"
+	"glut.h"
+	<windows.h>
+
+1263743716 c:\users\andris\desktop\lights\objects\objectdata.h
+	"GL/gl.h"
+
+1264877137 source:c:\users\andris\desktop\opengl\lights\external\bmploader\bitmap.cpp
+	"Bitmap.h"
+
+1265202974 c:\users\andris\desktop\opengl\lights\external\bmploader\bitmap.h
+	<iostream>
+	<cstdio>
+	<string>
+
+1265890274 source:c:\users\andris\desktop\opengl\lights\game.cpp
+	"game.h"
+	<iostream>
+	<iomanip>
+
+1265474374 c:\users\andris\desktop\opengl\lights\game.h
+	"GL/gl.h"
+	"glut/glut.h"
+	"light.h"
+	"material.h"
+	"objects/object.h"
+	"objects/drawable.h"
+	"objects/primitives.h"
+	"objects/3dmodel.h"
+	"objects/terrain.h"
+	"objects/explosion.h"
+	"objects/particle.h"
+	"player.h"
+	"bullet.h"
+	"objects/text.h"
+	<list>
+	"hrtimer.h"
+
+1254596290 c:\users\andris\desktop\opengl\lights\glut\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254936748 c:\users\andris\desktop\opengl\lights\light.h
+	"GL/gl.h"
+
+1254931562 c:\users\andris\desktop\opengl\lights\material.h
+	"GL/gl.h"
+
+1265313751 c:\users\andris\desktop\opengl\lights\objects\object.h
+	"GL/gl.h"
+	<vector>
+
+1265315927 c:\users\andris\desktop\opengl\lights\objects\drawable.h
+	"object.h"
+
+1265311206 c:\users\andris\desktop\opengl\lights\objects\primitives.h
+	"drawable.h"
+	"glut.h"
+
+1265843050 c:\users\andris\desktop\opengl\lights\objects\3dmodel.h
+	<vector>
+	"drawable.h"
+	"objectdata.h"
+
+1263743718 c:\users\andris\desktop\opengl\lights\objects\objectdata.h
+	"GL/gl.h"
+
+1265843054 c:\users\andris\desktop\opengl\lights\objects\terrain.h
+	"GL/gl.h"
+	"objects\3dmodel.h"
+	"external/bmploader/bitmap.h"
+	"objectdata.h"
+
+1265316096 c:\users\andris\desktop\opengl\lights\player.h
+	"objects/x3dmodelfromfile.h"
+	<math.h>
+
+1265313170 c:\users\andris\desktop\opengl\lights\bullet.h
+	<math.h>
+
+1265287028 c:\users\andris\desktop\opengl\lights\healthbar.h
+	"objects/drawable.h"
+
+1258199412 c:\users\andris\desktop\opengl\lights\hrtimer.h
+	"Windows.h"
+
+1265287037 source:c:\users\andris\desktop\opengl\lights\healthbar.cpp
+	"healthbar.h"
+	<iostream>
+	"glut.h"
+
+1265225300 source:c:\users\andris\desktop\opengl\lights\hrtimer.cpp
+	"hrtimer.h"
+
+1265060154 source:c:\users\andris\desktop\opengl\lights\light.cpp
+	"light.h"
+	<iostream>
+
+1265216806 source:c:\users\andris\desktop\opengl\lights\main.cpp
+	<iostream>
+	"game.h"
+	<windows.h>
+	<Windowsx.h>
+
+1254931762 source:c:\users\andris\desktop\opengl\lights\material.cpp
+	"material.h"
+
+1265887764 source:c:\users\andris\desktop\opengl\lights\objects\3dmodel.cpp
+	"3dmodel.h"
+	<windows.h>
+	"glext.h"
+	"glut.h"
+	<exception>
+	<stdexcept>
+	<iostream>
+
+1254680212 source:c:\users\andris\desktop\opengl\lights\objects\drawable.cpp
+
+1258126832 source:c:\users\andris\desktop\opengl\lights\objects\primitives.cpp
+	"primitives.h"
+
+1265313352 source:c:\users\andris\desktop\opengl\lights\objects\terrain.cpp
+	"terrain.h"
+
+1265316120 source:c:\users\andris\desktop\opengl\lights\player.cpp
+	"player.h"
+	<iostream>
+
+1265202974 c:\users\andris\desktop\opengl\lights\\external\bmploader\bitmap.h
+	<iostream>
+	<cstdio>
+	<string>
+
+1265315927 c:\users\andris\desktop\opengl\lights\\objects\drawable.h
+	"object.h"
+
+1265313751 c:\users\andris\desktop\opengl\lights\\objects\object.h
+	"GL/gl.h"
+	<vector>
+
+1255263568 c:\users\andris\desktop\opengl\lights\\glext.h
+	<windows.h>
+	<stddef.h>
+
+1265843050 c:\users\andris\desktop\opengl\lights\\objects\3dmodel.h
+	<vector>
+	"drawable.h"
+	"objectdata.h"
+
+1263743718 c:\users\andris\desktop\opengl\lights\\objects\objectdata.h
+	"GL/gl.h"
+
+1265312362 c:\users\andris\desktop\opengl\lights\objects\text.h
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<iostream>
+	<stdarg.h>
+	<gl\glu.h>
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<stdarg.h>
+	<gl\glu.h>
+
+1265309540 c:\users\andris\desktop\opengl\lights\modelloader\modelloader.h
+	"objects/3dmodel.h"
+	<map>
+
+1265887398 source:c:\users\andris\desktop\opengl\lights\objects\x3dmodelfromfile.cpp
+	"x3dmodelfromfile.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	"glext.h"
+	"glut.h"
+	<exception>
+	<stdexcept>
+	<cmath>
+
+1265844431 c:\users\andris\desktop\opengl\lights\objects\x3dmodelfromfile.h
+	<vector>
+	"3dmodel.h"
+	"objectdata.h"
+	"external\bmploader\Bitmap.h"
+
+1265478483 c:\users\andris\desktop\opengl\lights\objects\particle.h
+	"GL/gl.h"
+
+1265410368 c:\users\andris\desktop\opengl\lights\objects\explosion.h
+	"particle.h"
+	<list.h>
+

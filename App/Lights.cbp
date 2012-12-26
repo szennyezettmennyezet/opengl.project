@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lights" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Lights" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Debug\" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Lights" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="glut" />
+			<Add directory="C:\Users\Andris\Desktop\Opengl\Lights\" />
+		</Compiler>
+		<Linker>
+			<Add option="-lglut32 -lOpengl32 -lGdi32" />
+			<Add library="glut\glut32.lib" />
+			<Add library="C:\MinGW\lib\libgdi32.a" />
+			<Add library="C:\MinGW\lib\libglaux.a" />
+			<Add library="C:\MinGW\lib\libglu32.a" />
+			<Add library="C:\MinGW\lib\libopengl32.a" />
+		</Linker>
+		<Unit filename="bullet.h" />
+		<Unit filename="external\bmploader\Bitmap.cpp" />
+		<Unit filename="external\bmploader\Bitmap.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="hrtimer.cpp" />
+		<Unit filename="hrtimer.h" />
+		<Unit filename="light.cpp" />
+		<Unit filename="light.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="material.cpp" />
+		<Unit filename="material.h" />
+		<Unit filename="modelloader\modelloader.h" />
+		<Unit filename="objects\3dmodel.cpp" />
+		<Unit filename="objects\3dmodel.h" />
+		<Unit filename="objects\drawable.h" />
+		<Unit filename="objects\explosion.h" />
+		<Unit filename="objects\object.h" />
+		<Unit filename="objects\objectdata.h" />
+		<Unit filename="objects\objectloader.h" />
+		<Unit filename="objects\particle.h" />
+		<Unit filename="objects\primitives.cpp" />
+		<Unit filename="objects\primitives.h" />
+		<Unit filename="objects\terrain.cpp" />
+		<Unit filename="objects\terrain.h" />
+		<Unit filename="objects\text.h" />
+		<Unit filename="objects\x3dmodelfromfile.cpp" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

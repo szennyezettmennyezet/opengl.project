@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="bullet.h" open="1" top="0" tabpos="12">
+		<Cursor position="485" topLine="0" />
+	</File>
+	<File name="external\bmploader\Bitmap.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="7268" topLine="230" />
+	</File>
+	<File name="external\bmploader\Bitmap.h" open="0" top="0" tabpos="18">
+		<Cursor position="1251" topLine="46" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="13739" topLine="533" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="8">
+		<Cursor position="1428" topLine="187" />
+	</File>
+	<File name="hrtimer.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="85" topLine="0" />
+	</File>
+	<File name="hrtimer.h" open="0" top="0" tabpos="1">
+		<Cursor position="179" topLine="0" />
+	</File>
+	<File name="light.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="100" topLine="0" />
+	</File>
+	<File name="light.h" open="0" top="0" tabpos="19">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="14028" topLine="0" />
+	</File>
+	<File name="material.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="material.h" open="0" top="0" tabpos="10">
+		<Cursor position="295" topLine="0" />
+	</File>
+	<File name="modelloader\modelloader.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="objects\3dmodel.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="4212" topLine="51" />
+	</File>
+	<File name="objects\3dmodel.h" open="1" top="0" tabpos="1">
+		<Cursor position="699" topLine="22" />
+	</File>
+	<File name="objects\drawable.h" open="1" top="0" tabpos="4">
+		<Cursor position="460" topLine="11" />
+	</File>
+	<File name="objects\explosion.h" open="1" top="0" tabpos="11">
+		<Cursor position="1647" topLine="14" />
+	</File>
+	<File name="objects\object.h" open="1" top="0" tabpos="5">
+		<Cursor position="217" topLine="0" />
+	</File>
+	<File name="objects\objectdata.h" open="0" top="0" tabpos="12">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="objects\objectloader.h" open="0" top="0" tabpos="13">
+		<Cursor position="30" topLine="0" />
+	</File>
+	<File name="objects\particle.h" open="1" top="0" tabpos="9">
+		<Cursor position="1291" topLine="59" />
+	</File>
+	<File name="objects\primitives.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="167" topLine="0" />
+	</File>
+	<File name="objects\primitives.h" open="0" top="0" tabpos="5">
+		<Cursor position="205" topLine="0" />
+	</File>
+	<File name="objects\terrain.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="24" topLine="0" />
+	</File>
+	<File name="objects\terrain.h" open="1" top="0" tabpos="13">
+		<Cursor position="1308" topLine="26" />
+	</File>
+	<File name="objects\text.h" open="0" top="0" tabpos="8">
+		<Cursor position="293" topLine="66" />
+	</File>
+	<File name="objects\x3dmodelfromfile.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="968" topLine="24" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="552" topLine="3" />
+	</File>
+	<File name="player.h" open="0" top="0" tabpos="7">
+		<Cursor position="531" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
